@@ -1,0 +1,3 @@
+﻿  Users.cpp
+C:\Users\Kiko\Desktop\Blackjack\Blackjack\Users.cpp(204,16): warning C4553: '==': result of expression not used; did you intend '='?
+  Blackjack.vcxproj -> C:\Users\Kiko\Desktop\Blackjack\Debug\Blackjack.exe
