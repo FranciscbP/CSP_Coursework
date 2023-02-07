@@ -1,3 +1,3 @@
 # Computer Science Programming Coursework
 
-Simple C++ Blackjack Game
+Simple Blackjack Game
