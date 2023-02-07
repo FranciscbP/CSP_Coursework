@@ -1,2 +1,3 @@
-# CSP_Coursework
-Computer Science Programming - C++
+# Computer Science Programming Coursework
+
+Simple C++ Blackjack Game
